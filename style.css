@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body{
+    background-color:white;
+    overflow-x:hidden;
+    width: 100%;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: blue;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(235, 187, 30);
+    width: 500px;
+    border-radius: 30px; 
+}
+h1{
+    text-shadow: 1px 1px black;
+}
+main>p{
+    font-size: 20px;
+}
+h2{
+    background-color: blue;
+    padding: 5px;
+    color:white;
+}
+
+h1:hover{
+    background-color: aqua;
+}
+main>h2:hover{
+    background-color:rgb(75, 72, 72);
+}
+.G{
+color: blue;
+}
+.o{
+color: red;
+}
+.o2{
+color: yellow;
+}
+.g{
+color: blue;
+}
+.l{
+color: green;
+}
+.e{
+color: red;
+}
