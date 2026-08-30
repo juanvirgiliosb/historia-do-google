@@ -9,6 +9,7 @@ O projeto foi construído puramente com tecnologias web nativas para garantir um
 
 - **HTML5:** Estruturação semântica do conteúdo.
 - **CSS3:** Estilização moderna, uso de variáveis para cores, e layout adaptivo.
+- **Efeitos de Interatividade (Hover):** Aplicação de pseudo-classes CSS para criar feedbacks visuais ricos quando o usuário passa o mouse sobre os títulos.
 - **Responsividade:** Técnicas de Media Queries para garantir que o site funcione bem em celulares, tablets e computadores.
 
 ## Contato: 
