@@ -4,7 +4,7 @@
 Uma página web responsiva e elegante que narra a trajetória de uma das maiores empresas de tecnologia do mundo, desde a sua fundação.
 Este foi o meu **primeiro projeto prático** focado em estruturação e estilização web, criado para consolidar meus aprendizados iniciais em desenvolvimento Front-End.
 
-**[Clique aqui para visualizar o projeto ao vivo](https://juanvsb16-bot.github.io/historia-do-google/)**
+**[Clique aqui para visualizar o projeto](https://juanvirgiliosb.github.io/historia-do-google/)**
 
 O projeto foi construído puramente com tecnologias web nativas, para garantir um código limpo e sem dependências:
 
