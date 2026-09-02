@@ -1,6 +1,6 @@
 # Projeto: A história do Google
 
-## Desenvolvido de forma autodidata utilizando boas práticas de HTML5 e CSS3 através do Curso em Vídeo. 
+## Desenvolvido de forma autodidata utilizando boas práticas de HTML5 e CSS3 através do Curso em Vídeo(Youtube).
 Uma página web responsiva e elegante que narra a trajetória de uma das maiores empresas de tecnologia do mundo, desde a sua fundação.
 Este foi o meu **primeiro projeto prático** focado em estruturação e estilização web, criado para consolidar meus aprendizados iniciais em desenvolvimento Front-End.
 
