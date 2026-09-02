@@ -1,6 +1,6 @@
 # Projeto: A história do Google
 
-Uma página web responsiva e elegante que narra a trajetória de uma das maiores empresas de tecnologia do mundo, desde a sua fundação.
+Desenvolvido de forma autodidata utilizando boas práticas de HTML5 e CSS3 através do Curso em Vídeo. Uma página web responsiva e elegante que narra a trajetória de uma das maiores empresas de tecnologia do mundo, desde a sua fundação.
 Este foi o meu **primeiro projeto prático** focado em estruturação e estilização web, criado para consolidar meus aprendizados iniciais em desenvolvimento Front-End.
 
 **[Clique aqui para visualizar o projeto ao vivo](https://juanvsb16-bot.github.io/historia-do-google/)**
